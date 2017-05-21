@@ -1,0 +1,51 @@
+/*Kyle Osborne CSS for all pages*/
+body {
+	font-family: Arial, Verdana, sans-serif;
+	border: 40px solid #134ba5;
+	margin:0;
+	background-color: #c7cfdb;
+}
+
+#frame {
+	background-color: white;
+}
+
+#main {
+	width: 800px;
+ 	margin:auto;
+ 	padding-top padding-bottom: 40px;
+}
+
+header {
+	text-align: center;
+	padding: 40px;
+}
+
+table, tr, th, td {
+	border: 1px solid black;
+}
+
+table {
+	width: 100%;
+}
+
+.search {
+	border: 5px solid black;
+	padding: 20px;
+	width: 100%;
+	margin:auto;
+	}
+
+img {
+	height:90px;
+	width: 250px;
+	padding-top: 100px;
+	padding-bottom: 40px;
+	display: block;
+	margin:auto;
+}
+
+#menu {
+	float: right;
+	margin:auto;
+}
